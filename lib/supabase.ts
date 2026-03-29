@@ -1,11 +1,3 @@
-// lib/supabase.ts
-// ─────────────────────────────────────────────────────────────────────────────
-// Configura el cliente de Supabase.
-// Sustituye los valores de .env.local:
-//   NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
-//   NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJ...
-// ─────────────────────────────────────────────────────────────────────────────
-
 import { createClient } from "@supabase/supabase-js"
 import type { Paciente, Doctor, Cita } from "@/lib/types"
 
