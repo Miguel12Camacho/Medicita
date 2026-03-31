@@ -1,5 +1,5 @@
 import mysql from 'mysql2/promise'
-
+//Actualizacion de dependencias
 const pool = mysql.createPool({
   host: process.env.MYSQL_HOST || 'localhost',
   user: process.env.MYSQL_USER || 'root',
