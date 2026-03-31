@@ -67,3 +67,9 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 ---
 
 El caché local (localStorage) garantiza que la app funcione aunque el dispositivo pierda conexión momentáneamente.
+
+## Mejora realizada
+
+Se realizó una actualización en la documentación del sistema con el fin de mejorar la comprensión de la estructura del proyecto. Se detallaron los componentes principales y la organización general del sistema para facilitar su mantenimiento y futura escalabilidad.
+
+Estas mejoras permiten que nuevos desarrolladores puedan entender más fácilmente el funcionamiento del sistema.
